@@ -8,7 +8,7 @@
 <body>
 
 <div align="center">
-    <h1>Hola, soy Sebastián Quirós Esquivel / SQuirosDev</h1>
+    <h1>Hola, soy Sebastián Quirós / SQuirosDev</h1>
 </div>
 <div class="container">
     <hr>
