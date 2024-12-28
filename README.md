@@ -21,11 +21,20 @@
     <div>
         <h2>Redes Sociales</h2>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/-LinkedIn-green?style=for-the-badge&logo=linkedin&color=07298A">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge&logo=github&color=000000">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
         </a>
+    </div>
+    <hr>
+    <div>
+        <h2>Habilidades</h2>
+        <p>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,git" />
+          </a>
+        </p>    
     </div>
     <hr>
     <div>
@@ -64,11 +73,6 @@
               </td>
           </tr>
         </table>
-    </div>
-    <hr>
-    <div>
-        <h2>Certificados y Conocimientos</h2>
-        <p><strong>Certificado en:</strong> C#, Python, HTML, CSS, JS, Git</p>
     </div>
     <hr>
 </div>
