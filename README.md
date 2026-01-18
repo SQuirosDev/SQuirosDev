@@ -8,18 +8,20 @@
 <body>
 
 <div align="center">
-    <h1>Hola, soy Sebastián Quirós / SQuirosDev</h1>
+    <h1><strong>Hello, I'm Sebastián Quirós</strong></h1>
 </div>
 <div class="container">
     <hr>
     <div>
-        <h2>Sobre Mi</h2>
-        <p>💻 Ingeniero en Sistemas</p>
-        <p>📚 Estudiante de Ingeniería en Sistemas</p>
+        <h2><strong>About Me</strong></h2>
+        <p>- Advanced Student of Information Systems Engineering</p>
+        <p>- Backend Developer</p>
+        <p>- DBA</p>
+        <p>- Data Analyst</p>
     </div>          
     <hr>
     <div>
-        <h2>Redes Sociales</h2>
+        <h2><strong>Redes Sociales</strong></h2>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
@@ -29,10 +31,10 @@
     </div>
     <hr>
     <div>
-        <h2>Habilidades</h2>
+        <h2><strong>Habilidades</strong>></h2>
         <p>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,git" />
+            <img src="https://skillicons.dev/icons?i=cs,py,js,sql,cpp" />
           </a>
         </p>    
     </div>
@@ -78,7 +80,7 @@
 </div>
 
 <div align="center">
-    <p>&copy; 2024 SQuirosDev. Todos los derechos reservados.
+    <p>&copy; 2026 sQuirosDev. Todos los derechos reservados.
 </div>
 <hr>
 
